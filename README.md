@@ -14,6 +14,8 @@ style.css: Provides the styling for the site, ensuring a centered, visually appe
 script.js: Implements the functionality to display new quotes, handle button clicks, and detect spacebar presses for refreshing the quote. (Note: Ensure this file contains the necessary JavaScript logic for your desired functionalities.)
 Installation
 
+LINK: https://quotemedaily.netlify.app
+
 To run QuoteME locally:
 
 Clone the repository:
